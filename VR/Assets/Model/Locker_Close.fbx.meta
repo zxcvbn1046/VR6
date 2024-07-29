@@ -1,0 +1,343 @@
+fileFormatVersion: 2
+guid: 24bba82f74c859f4a84148e20d1d1cb2
+timeCreated: 1558681222
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: Camera
+    100002: Chest
+    100004: Chest_Door
+    100006: Door_1_Blue
+    100008: Door_1_Blue_Col
+    100010: Door_1_Gray
+    100012: Door_1_Gray_Col
+    100014: Door_1_Green
+    100016: Door_1_Green_Col
+    100018: Door_1_Red
+    100020: Door_1_Red_Col
+    100022: Door_2_Blue
+    100024: Door_2_Blue_Col
+    100026: Door_2_Gray
+    100028: Door_2_Gray_Col
+    100030: Door_2_Green
+    100032: Door_2_Green_Col
+    100034: Door_2_Red
+    100036: Door_2_Red_Col
+    100038: Hide_Door
+    100040: Key_Blue
+    100042: Key_Green
+    100044: Key_Red
+    100046: Level_1
+    100048: Level_Tutorial_
+    100050: Light
+    100052: //RootNode
+    100054: Locker_Close
+    100056: Locker_Close_Door
+    100058: Locker_Door
+    100060: Locker_Open
+    100062: Note
+    100064: Selector
+    100066: Selector_But
+    100068: "\u041A\u0443\u0431"
+    100070: "\u0421\u043E\u043B\u043D\u0446\u0435"
+    100072: "\u0421\u043E\u043B\u043D\u0446\u0435.001"
+    100074: "\u0426\u0438\u043B\u0438\u043D\u0434\u0440"
+    100076: Locker_Close_Door.001
+    100078: Locker_Light
+    400000: Camera
+    400002: Chest
+    400004: Chest_Door
+    400006: Door_1_Blue
+    400008: Door_1_Blue_Col
+    400010: Door_1_Gray
+    400012: Door_1_Gray_Col
+    400014: Door_1_Green
+    400016: Door_1_Green_Col
+    400018: Door_1_Red
+    400020: Door_1_Red_Col
+    400022: Door_2_Blue
+    400024: Door_2_Blue_Col
+    400026: Door_2_Gray
+    400028: Door_2_Gray_Col
+    400030: Door_2_Green
+    400032: Door_2_Green_Col
+    400034: Door_2_Red
+    400036: Door_2_Red_Col
+    400038: Hide_Door
+    400040: Key_Blue
+    400042: Key_Green
+    400044: Key_Red
+    400046: Level_1
+    400048: Level_Tutorial_
+    400050: Light
+    400052: Locker_Close
+    400054: //RootNode
+    400056: Locker_Close_Door
+    400058: Locker_Door
+    400060: Locker_Open
+    400062: Note
+    400064: Selector
+    400066: Selector_But
+    400068: "\u041A\u0443\u0431"
+    400070: "\u0421\u043E\u043B\u043D\u0446\u0435"
+    400072: "\u0421\u043E\u043B\u043D\u0446\u0435.001"
+    400074: "\u0426\u0438\u043B\u0438\u043D\u0434\u0440"
+    400076: Locker_Close_Door.001
+    400078: Locker_Light
+    2000000: Camera
+    2300000: Chest
+    2300002: Chest_Door
+    2300004: Door_1_Blue
+    2300006: Door_1_Blue_Col
+    2300008: Door_1_Gray
+    2300010: Door_1_Gray_Col
+    2300012: Door_1_Green
+    2300014: Door_1_Green_Col
+    2300016: Door_1_Red
+    2300018: Door_1_Red_Col
+    2300020: Door_2_Blue
+    2300022: Door_2_Blue_Col
+    2300024: Door_2_Gray
+    2300026: Door_2_Gray_Col
+    2300028: Door_2_Green
+    2300030: Door_2_Green_Col
+    2300032: Door_2_Red
+    2300034: Door_2_Red_Col
+    2300036: Hide_Door
+    2300038: Key_Blue
+    2300040: Key_Green
+    2300042: Key_Red
+    2300044: Level_1
+    2300046: Level_Tutorial_
+    2300048: Light
+    2300050: Locker_Close
+    2300052: Locker_Close_Door
+    2300054: Locker_Door
+    2300056: Locker_Open
+    2300058: Note
+    2300060: Selector
+    2300062: Selector_But
+    2300064: "\u041A\u0443\u0431"
+    2300066: "\u0426\u0438\u043B\u0438\u043D\u0434\u0440"
+    2300068: //RootNode
+    2300070: Locker_Close_Door.001
+    2300072: Locker_Light
+    3300000: Chest
+    3300002: Chest_Door
+    3300004: Door_1_Blue
+    3300006: Door_1_Blue_Col
+    3300008: Door_1_Gray
+    3300010: Door_1_Gray_Col
+    3300012: Door_1_Green
+    3300014: Door_1_Green_Col
+    3300016: Door_1_Red
+    3300018: Door_1_Red_Col
+    3300020: Door_2_Blue
+    3300022: Door_2_Blue_Col
+    3300024: Door_2_Gray
+    3300026: Door_2_Gray_Col
+    3300028: Door_2_Green
+    3300030: Door_2_Green_Col
+    3300032: Door_2_Red
+    3300034: Door_2_Red_Col
+    3300036: Hide_Door
+    3300038: Key_Blue
+    3300040: Key_Green
+    3300042: Key_Red
+    3300044: Level_1
+    3300046: Level_Tutorial_
+    3300048: Light
+    3300050: Locker_Close
+    3300052: Locker_Close_Door
+    3300054: Locker_Door
+    3300056: Locker_Open
+    3300058: Note
+    3300060: Selector
+    3300062: Selector_But
+    3300064: "\u041A\u0443\u0431"
+    3300066: "\u0426\u0438\u043B\u0438\u043D\u0434\u0440"
+    3300068: //RootNode
+    3300070: Locker_Close_Door.001
+    3300072: Locker_Light
+    4300000: Locker_Close
+    4300002: Locker_Close_Door
+    4300004: Selector
+    4300006: Selector_But
+    4300008: Chest
+    4300010: Chest_Door
+    4300012: Door_2_Red
+    4300014: Door_2_Red_Col
+    4300016: Level_1
+    4300018: Hide_Door
+    4300020: Key_Green
+    4300022: Door_2_Gray
+    4300024: Door_2_Gray_Col
+    4300026: Door_1_Gray
+    4300028: Door_1_Gray_Col
+    4300030: Door_1_Green
+    4300032: Door_1_Green_Col
+    4300034: Door_2_Green
+    4300036: Door_2_Green_Col
+    4300038: Door_2_Blue
+    4300040: Door_2_Blue_Col
+    4300042: Door_1_Red
+    4300044: Door_1_Red_Col
+    4300046: Light
+    4300048: Note
+    4300050: Locker_Open
+    4300052: Locker_Door
+    4300054: Key_Red
+    4300056: Door_1_Blue
+    4300058: Door_1_Blue_Col
+    4300060: Key_Blue
+    4300062: "\u041A\u0443\u0431"
+    4300064: "\u0426\u0438\u043B\u0438\u043D\u0434\u0440"
+    4300066: Level_Tutorial_
+    4300068: Locker_Close_Door.001
+    4300070: Locker_Light
+    10800000: "\u0421\u043E\u043B\u043D\u0446\u0435"
+    10800002: "\u0421\u043E\u043B\u043D\u0446\u0435.001"
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 44a0e75845f80d24f82b519c2c7a99a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Chest
+    second: {fileID: 2100000, guid: 96ed881ec4933ef44b8c7de95ecddab8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_1
+    second: {fileID: 2100000, guid: 80136e6b86bfa4443a3a0ec3dd6e75b6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door_Glass
+    second: {fileID: 2100000, guid: 97e4d51a40113d342bf65e5b68fd781b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_1
+    second: {fileID: 2100000, guid: 735e5cc99a5856042b931990509ec050, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Floor_2
+    second: {fileID: 2100000, guid: b0d99fb0ff93aa24f9233f21e930bdec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Keys
+    second: {fileID: 2100000, guid: b7fe378cf722e2846b1c7c46e6e5cf93, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 368e2c0e64ec87842babc9ade2818e08, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Locker
+    second: {fileID: 2100000, guid: 68fd094bba49ffe4cbba0e4e605544ca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 371885f790d27954fb32212e60d3ffef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Note
+    second: {fileID: 2100000, guid: d38aa21c74a6af340b0ac11653f927d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_1
+    second: {fileID: 2100000, guid: a80a5953081d15a4797e067656675ee9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Walls_2
+    second: {fileID: 2100000, guid: 6a5d28d1fd5bdae4a81bead3d672031c, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
